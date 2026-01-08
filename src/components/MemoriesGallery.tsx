@@ -4,77 +4,77 @@ import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const memories = [
   {
-    image: "public\\20240909_204659.jpg",
+    image: "images\\20240909_204659.jpg",
     date: "The Beginning(on 09/09/2024 at 8:46 PM)",
     caption: "When two souls recognized each other"
   },
   {
-    image: "public\\20250310_130257.jpg",
+    image: "images\\20250310_130257.jpg",
     date: "First Adventure",
     caption: "Creating memories that would last forever"
   },
   {
-    image: "public\\Snapchat-880421603.jpg",
+    image: "images\\Snapchat-880421603.jpg",
     date: "Perfect Moment",
     caption: "When everything felt just right"
   },
   {
-    image: "public\\20250308_184430.jpg",
+    image: "images\\20250308_184430.jpg",
     date: "Together",
     caption: "Every moment with you is a treasure"
   },
   {
-    image: "public\\Snapchat-7259455.jpg",
+    image: "images\\Snapchat-7259455.jpg",
     date: "Together",
     caption: "Every moment with you is a treasure"
   },
   {
-    image: "public/Snapchat-360744447.jpg",
+    image: "images\\Snapchat-360744447.jpg",
     date: "Together",
     caption: "In your eyes, I found a place I never want to leave"
   },
   {
-    image: "public/20250310_132131.jpg",
+    image: "images\\20250310_132131.jpg",
     date: "Together",
     caption: "Moments turned into memories the moment you smiled"
   },
   {
-    image: "public/20250310_131759.jpg",
+    image: "images\\20250310_131759.jpg",
     date: "Together",
     caption: "Time never felt enough when it was spent with you"
   },
   {
-    image: "public/ff2.jpg",
+    image: "images\\ff2.jpg",
     date: "Together",
     caption: "With you, every day is a new adventure"
   },
   {
-    image: "public\\WhatsApp Image 2026-01-07 at 10.19.55 PM.jpeg",
+    image: "images\\WhatsApp Image 2026-01-07 at 10.19.55 PM.jpeg",
     date: "Together",
     caption: "You are my today and all of my tomorrows"
   },
   {
-    image: "public\\Snapchat-1154276033.jpg",
+    image: "images\\Snapchat-1154276033.jpg",
     date: "Together",
     caption: "As colors painted our faces, I held your hands and time stood still"
   },
   {
-    image: "public\\WhatsApp Image 2026-01-07 at 10.25.37 PM.jpeg",
+    image: "images\\WhatsApp Image 2026-01-07 at 10.25.37 PM.jpeg",
     date: "Together",
     caption: "In your laughter, I found my favorite melody"
   },
   {
-    image: "public\\WhatsApp Image 2026-01-07 at 10.20.31 PM.jpeg",
+    image: "images\\WhatsApp Image 2026-01-07 at 10.20.31 PM.jpeg",
     date: "Together",
     caption: "With you, every moment is a beautiful chapter in our story"
   },
   {
-    image: "public\\WhatsApp Image 2026-01-07 at 10.21.03 PM.jpeg",
+    image: "images\\WhatsApp Image 2026-01-07 at 10.21.03 PM.jpeg",
     date: "Together",
     caption: "You are the reason behind my smiles and the warmth in my heart"
   },
   {
-    image: "public\\WhatsApp Image 2026-01-07 at 10.20.28 PM.jpeg",
+    image: "images\\WhatsApp Image 2026-01-07 at 10.20.28 PM.jpeg",
     date: "Together",
     caption: "Hands held, hearts closer"
   }
