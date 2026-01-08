@@ -4,7 +4,7 @@ import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const memories = [
   {
-    image: "https://github.com/Priyanshu14G/ira/blob/main/public/20240909_204659.jpg",
+    image: "https://drive.google.com/file/d/14yXGXwPgJLxw4HrXZI28ny7tlPauB7aj/view?usp=drive_link",
     date: "The Beginning(on 09/09/2024 at 8:46 PM)",
     caption: "When two souls recognized each other"
   },
